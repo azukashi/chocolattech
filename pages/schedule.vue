@@ -11,14 +11,14 @@ useHead({
             <FullScreenCard class="lg:w-[50rem] h-auto m-auto schedule">
                 <div>
                     <img
-                        src="http://cdn.hoshiro.space/choco/nostream.png"
+                        src="https://azukashiic.sirv.com/assets/choco/nostream.png?format=original&q=100"
                         alt="Weekly schedule"
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
                     <p class="text-chocolate-700 text-sm mt-3">
                         Schedule for unknown
                         <br />
-                        Last updated on <code class="text-[#ff93b5] font-bold">Mon Nov 25 2024 17:05:00 GMT+7</code>
+                        Last updated on <code class="text-[#ff93b5] font-bold">Mon Aug 11 2025 05:50:00 GMT+7</code>
                     </p>
                     <a
                         href="https://www.youtube.com/@ChocoLatteCh"

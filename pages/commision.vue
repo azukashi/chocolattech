@@ -14,14 +14,14 @@ useHead({
                 <div class="grid-card group">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/choco_nao.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_sample_1.jpg?format=original&q=100"
                         alt="Sample"
                     />
                 </div>
                 <div class="grid-card group">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/choco_edited_my_love_finish.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_euria_sample_2.jpg?format=original&q=100"
                         alt="Sample"
                     />
                 </div>
@@ -30,28 +30,28 @@ useHead({
                 <div class="grid-card group bg-[#FFD19A]">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/choco_euria_ava_1.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_sample_3.jpg?format=original&q=100"
                         alt="Sample"
                     />
                 </div>
                 <div class="grid-card group bg-[#8fc298]">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/choco_renomz_1.2.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_sample_4.jpg?format=original&q=100"
                         alt="Sample"
                     />
                 </div>
                 <div class="grid-card group bg-[#4f53b9]">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/choco_bu_dok_astrid1.2.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_sample_5.jpg?format=original&q=100"
                         alt="Sample"
                     />
                 </div>
                 <div class="grid-card group bg-[#A896C9]">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/choco_rakki1.2.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_sample_6.gif?format=original&q=100"
                         alt="Sample"
                     />
                 </div>
@@ -60,10 +60,8 @@ useHead({
                 <div class="grid-card object-center group bg-[#FFC7ED]">
                     <img
                         class="object-cover object-center m-auto pointer-events-none"
-                        src="http://cdn.hoshiro.space/choco/chocomission_1.png"
+                        src="https://azukashiic.sirv.com/assets/choco/choco_sample_7.png?format=original&q=100"
                         alt="Sample"
-                        width="256"
-                        height="256"
                     />
                 </div>
             </div>
