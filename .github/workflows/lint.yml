@@ -15,13 +15,8 @@ jobs:
             - name: Checkout 🛒
               uses: actions/checkout@v4
 
-            - name: Setup bun 🔧
+            - name: Check Format 💅
               uses: oven-sh/setup-bun@v2
               with:
                   bun-version: latest
-
-            - name: Install Prettier 💅
-              run: bun add -D prettier
-
-            - name: Check Format 🧐
-              run: bun lint
+            - run: bunx --bun prettier -c . --config package.json
