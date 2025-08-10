@@ -1,6 +1,6 @@
 export const useWebMeta = () => {
     useHead({
-        titleTemplate: titleChunk => {
+        titleTemplate: (titleChunk) => {
             return titleChunk ? `${titleChunk} | Choco Latte VTuber` : `Choco Latte VTuber`;
         },
         htmlAttrs: {

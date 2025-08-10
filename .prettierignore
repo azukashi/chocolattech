@@ -1,7 +1,0 @@
-# Lockfile
-pnpm-lock.yaml
-package-lock.json
-
-# Nuxt
-.nuxt/
-dist/
