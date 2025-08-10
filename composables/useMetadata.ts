@@ -32,8 +32,11 @@ export const useWebMeta = () => {
             },
             { name: 'og:type', content: 'website' },
             { name: 'og:site_name', content: 'Choco Latte チョコラテ' },
-            { name: 'og:url', content: 'https://choco.hoshiro.space' },
-            { name: 'og:image', content: 'http://cdn.hoshiro.space/choco/graph.png' },
+            { name: 'og:url', content: 'https://choco.micin.life' },
+            {
+                name: 'og:image',
+                content: 'https://azukashiic.sirv.com/assets/choco/opengraph.png?format=original&q=100',
+            },
             { name: 'og:image:type', content: 'image/png' },
             { name: 'og:image:width', content: '1200' },
             { name: 'og:image:height', content: '600' },
@@ -44,14 +47,17 @@ export const useWebMeta = () => {
                 content:
                     'Choco Latte (チョコラテ) is a independent female Indonesian VTuber, formerly associated with Tsukimi Project',
             },
-            { name: 'twitter:image', content: 'http://cdn.hoshiro.space/choco/graph.png' },
+            {
+                name: 'twitter:image',
+                content: 'https://azukashiic.sirv.com/assets/choco/opengraph.png?format=original&q=100',
+            },
             { name: 'twitter:card', content: 'summary_large_image' },
             { name: 'twitter:site', content: '@ChocoLatteCh_' },
             { name: 'twitter:creator', content: '@azukashiic' },
         ],
         link: [
             { rel: 'icon', href: '/svgs/icon.svg', type: 'image/svg+xml' },
-            { rel: 'canonical', href: 'https://choco.hoshiro.space' },
+            { rel: 'canonical', href: 'https://choco.micin.life' },
             { rel: 'preload', href: '/img/signature.webp', as: 'image' },
             { rel: 'preload', href: '/img/neko_half.webp', as: 'image' },
         ],
@@ -59,7 +65,7 @@ export const useWebMeta = () => {
             {
                 async: true,
                 'data-website-id': 'ff027c74-3390-419b-becd-344bed766c7e',
-                src: 'https://umami.falcxxdev.fun/script.js',
+                src: 'https://umami.micin.life/script.js',
             },
         ],
     });
