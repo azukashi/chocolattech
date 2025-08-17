@@ -11,14 +11,14 @@ useHead({
             <FullScreenCard class="lg:w-[50rem] h-auto m-auto schedule">
                 <div>
                     <img
-                        src="https://azukashiic.sirv.com/assets/choco/nostream.png?format=original&q=100"
+                        src="https://pbs.twimg.com/media/GyiXuXFbwAAEbqP?format=jpg&name=large"
                         alt="Weekly schedule"
                         class="rounded-xl shadow-md hover:ring-2 ring-chocolate-700 transition-all"
                     />
                     <p class="text-chocolate-700 text-sm mt-3">
-                        Schedule for unknown
+                        Schedule for August 18th, 2025 - August 24th 2025
                         <br />
-                        Last updated on <code class="text-[#ff93b5] font-bold">Mon Aug 11 2025 05:50:00 GMT+7</code>
+                        Last updated on <code class="text-[#ff93b5] font-bold">Mon Aug 17 2025 17:00:00 GMT+7</code>
                     </p>
                     <a
                         href="https://www.youtube.com/@ChocoLatteCh"
