@@ -22,7 +22,7 @@
     "nuxt-jsonld": "2.2.1",
     "prettier": "3.6.2",
     "sitemap-generator-cli": "7.5.0",
-    "typescript": "5.9.2"
+    "typescript": "7.0.2"
   },
   "prettier": {
     "tabWidth": 4,
