@@ -19,7 +19,7 @@
     "@nuxtjs/tailwindcss": "6.14.0",
     "nuxt": "3.16.0",
     "nuxt-icon": "0.6.10",
-    "nuxt-jsonld": "2.2.1",
+    "nuxt-jsonld": "3.0.0",
     "prettier": "3.6.2",
     "sitemap-generator-cli": "7.5.0",
     "typescript": "5.9.2"
